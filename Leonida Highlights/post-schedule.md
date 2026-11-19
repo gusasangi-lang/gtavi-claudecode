@@ -9,14 +9,14 @@ Before the first LACY post: join the Reach LACY campaign (https://reachclipping.
 
 | When (ET) | # | Streamer | File | Caption |
 |---|---|---|---|---|
-| Thu 14:00 | 1 | Kai Cenat | `media/edits/01_kai_steals_first_car.mp4` | Kai Cenat tried to steal his first car in GTA 6 💀 Credit: Kai Cenat (twitch.tv/kaicenat) #KaiCenat #GTA6 #GTAVI #gaming |
-| Thu 15:15 | 2 | Kai Cenat | `media/edits/02_kai_bathroom_pause.mp4` | Kai Cenat paused a GTA 6 mission for a bathroom break 😭 Credit: Kai Cenat (twitch.tv/kaicenat) #KaiCenat #GTA6 #GTAVI #gaming |
-| Thu 16:30 | 6 | LACY | `media/edits/06_lacy_chat_car_color.mp4` | Lacy let chat pick his car color in GTA 6 🎨 Credit: LACY (twitch.tv/lacy) #LACY #GTA6 #GTAVI #gaming |
-| Thu 17:45 | 3 | Kai Cenat | `media/edits/03_kai_learn_spanish.mp4` | Kai Cenat wants to learn Spanish after this GTA 6 scene 😂 (minor early-story spoiler) Credit: Kai Cenat (twitch.tv/kaicenat) #KaiCenat #GTA6 #GTAVI #gaming |
-| Thu 19:00 | 4 | Kai Cenat | `media/edits/04_kai_jetski_fall.mp4` | Kai Cenat fell off a jet ski in GTA 6 💀 Credit: Kai Cenat (twitch.tv/kaicenat) #KaiCenat #GTA6 #GTAVI #gaming |
-| Thu 20:15 | 7 | LACY | `media/edits/07_lacy_gun_shop.mp4` | Lacy had no idea which gun to pick in GTA 6 😭 Credit: LACY (twitch.tv/lacy) #LACY #GTA6 #GTAVI #gaming |
-| Thu 21:30 | 5 | Kai Cenat | `media/edits/05_kai_smoke_shop_spanish.mp4` | Kai Cenat tried speaking Spanish in a GTA 6 smoke shop 😂 Credit: Kai Cenat (twitch.tv/kaicenat) #KaiCenat #GTA6 #GTAVI #gaming |
-| Thu 22:45 | 10 | Kai Cenat | `media/edits/10_kai_tag_enemies.mp4` | Kai Cenat just found out you can tag enemies in GTA 6 🤯 Credit: Kai Cenat (twitch.tv/kaicenat) #KaiCenat #GTA6 #GTAVI #gaming |
+| Thu 15:00 | 1 | Kai Cenat | `media/edits/01_kai_steals_first_car.mp4` | Kai Cenat tried to steal his first car in GTA 6 💀 Credit: Kai Cenat (twitch.tv/kaicenat) #KaiCenat #GTA6 #GTAVI #gaming |
+| Thu 16:15 | 2 | Kai Cenat | `media/edits/02_kai_bathroom_pause.mp4` | Kai Cenat paused a GTA 6 mission for a bathroom break 😭 Credit: Kai Cenat (twitch.tv/kaicenat) #KaiCenat #GTA6 #GTAVI #gaming |
+| Thu 17:30 | 6 | LACY | `media/edits/06_lacy_chat_car_color.mp4` | Lacy let chat pick his car color in GTA 6 🎨 Credit: LACY (twitch.tv/lacy) #LACY #GTA6 #GTAVI #gaming |
+| Thu 18:45 | 3 | Kai Cenat | `media/edits/03_kai_learn_spanish.mp4` | Kai Cenat wants to learn Spanish after this GTA 6 scene 😂 (minor early-story spoiler) Credit: Kai Cenat (twitch.tv/kaicenat) #KaiCenat #GTA6 #GTAVI #gaming |
+| Thu 20:00 | 4 | Kai Cenat | `media/edits/04_kai_jetski_fall.mp4` | Kai Cenat fell off a jet ski in GTA 6 💀 Credit: Kai Cenat (twitch.tv/kaicenat) #KaiCenat #GTA6 #GTAVI #gaming |
+| Thu 21:15 | 7 | LACY | `media/edits/07_lacy_gun_shop.mp4` | Lacy had no idea which gun to pick in GTA 6 😭 Credit: LACY (twitch.tv/lacy) #LACY #GTA6 #GTAVI #gaming |
+| Thu 22:30 | 5 | Kai Cenat | `media/edits/05_kai_smoke_shop_spanish.mp4` | Kai Cenat tried speaking Spanish in a GTA 6 smoke shop 😂 Credit: Kai Cenat (twitch.tv/kaicenat) #KaiCenat #GTA6 #GTAVI #gaming |
+| Thu 23:45 | 10 | Kai Cenat | `media/edits/10_kai_tag_enemies.mp4` | Kai Cenat just found out you can tag enemies in GTA 6 🤯 Credit: Kai Cenat (twitch.tv/kaicenat) #KaiCenat #GTA6 #GTAVI #gaming |
 | Fri 09:00 | 8 | LACY | `media/edits/08_lacy_broke_shark_card.mp4` | Lacy is so broke in GTA 6 he wants a Shark Card 💸 Credit: LACY (twitch.tv/lacy) #LACY #GTA6 #GTAVI #gaming |
 | Fri 10:15 | 11 | Kai Cenat | `media/edits/11_kai_glitch_panic.mp4` | Kai Cenat thought GTA 6 was glitching mid-mission 😭 Credit: Kai Cenat (twitch.tv/kaicenat) #KaiCenat #GTA6 #GTAVI #gaming |
 | Fri 11:30 | 12 | Kai Cenat | `media/edits/12_kai_chat_pee_advice.mp4` | Chat told Kai Cenat to stop saying he has to pee 😭 Credit: Kai Cenat (twitch.tv/kaicenat) #KaiCenat #GTA6 #GTAVI #gaming |
