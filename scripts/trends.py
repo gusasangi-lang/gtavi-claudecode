@@ -2,7 +2,7 @@
 
 usage: python trends.py [--query "gta 6"] [--hours 24] [--limit 30] [--out trends.md]
 """
-import argparse, sys, time
+import argparse, calendar, sys, time
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
@@ -32,6 +32,8 @@ def main():
     now = time.time(); rows = []
     for i in infos:
         t = i.get("timestamp") or i.get("release_timestamp")
+        if not t and i.get("upload_date"):  # YouTube often gives only the date: assume midnight UTC (age is an upper bound)
+            t = calendar.timegm(time.strptime(i["upload_date"], "%Y%m%d"))
         if not t or i.get("is_live"):
             continue
         age = max(0.25, (now - t) / 3600)
