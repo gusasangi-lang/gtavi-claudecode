@@ -270,6 +270,12 @@ def main():
         from common import ffprobe
         vs = [x for x in ffprobe(c['source'])['streams'] if x.get('codec_type') == 'video'][0]
         src = (int(vs['width']), int(vs['height']))
+        # Live recordings can switch resolution mid-file (Twitch quality change after an ad): use the real frame size at s0
+        fr = run(["ffprobe", "-v", "error", "-read_intervals", f"{s0:.2f}%+#1", "-select_streams", "v:0",
+                  "-show_entries", "frame=width,height", "-of", "csv=p=0", c["source"]], capture=True, check=False)
+        dims = [l.split(",") for l in (fr.stdout or "").split() if "," in l]
+        if dims:
+            src = (int(dims[0][0]), int(dims[0][1]))
         gx = game_offset(c['source'], s0, e0, src, [float(t) for t in cam.split(':')])
     v = video_filter(layout, cam, ass, band=band, cam_side=side, src=src, game_x=gx, face_expr=face_expr)
     mp4 = out / f"clip_{a.pick}.mp4"
