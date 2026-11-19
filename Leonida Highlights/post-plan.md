@@ -1,5 +1,7 @@
 # Post plan: Thu 2026-11-19 (launch day), times in ET
 
+> Update: 52 clips are now ready. The full schedule is in `post-schedule.md`; `clips.csv` lists every clip with its caption and check result.
+
 Source: Kai Cenat's live GTA 6 stream on Twitch, recorded 10:55–11:10 ET.
 Campaign: **Kai Cenat: subathon stream clipping** on Clip ($2.00 per 1K views, 62% of $25K left).
 
