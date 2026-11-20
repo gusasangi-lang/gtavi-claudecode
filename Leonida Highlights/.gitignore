@@ -1,3 +1,5 @@
 jobs/
 media/raw/*.jsonl
 media/raw/*.start
+*.part
+*.ytdl
